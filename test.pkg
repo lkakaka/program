@@ -1,0 +1,9 @@
+$pfile "Test.h"
+
+class Test
+{
+	Test(void);
+	~Test(void);
+
+	void sayHello();
+};
